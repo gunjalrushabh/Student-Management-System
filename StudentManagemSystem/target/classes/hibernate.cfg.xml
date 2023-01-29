@@ -22,6 +22,7 @@
 			<mapping class="pojos.Courses"/>
 			<mapping class="pojos.Students"/>
 			<mapping class="pojos.Admission"/>
-			
+			<mapping class="pojos.Address"/>
+			<mapping class="pojos.Projects"/>
 	</session-factory>
 </hibernate-configuration>

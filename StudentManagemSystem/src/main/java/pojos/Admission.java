@@ -9,7 +9,6 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
-
 @Entity  //unmapped exception occurs if @Entity is missing
 @Table(name="admission_tbl")
 public class Admission extends BaseEntity {
